@@ -1,0 +1,21 @@
+{
+  "name": "ndtest",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alexey <xenon1992@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bxslider": "*"
+  }
+}
